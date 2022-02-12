@@ -1,0 +1,2 @@
+# Customer-Classfication-Model
+Analyzed a Retail data set with more than a million rows. Analyzed, pre-processed and wrangled the data to build the model. Did extensive feature engineering to discard non-significant features based on the p-values and information gain. Finally, trained the model on different classification models - Logistic Regression, KNN, Random FOrest, XGBoost and Decision Tree. Compared the different Precision, Recall and Roc-Auc scores to fine-tune the logistic regression and random forest model.
